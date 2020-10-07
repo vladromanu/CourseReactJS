@@ -1,0 +1,13 @@
+ul.stopwatch-laps {
+  margin-top: 10px;
+  padding-left: 0;
+}
+
+div.stopwatch-wrapper {
+  width: 400px;
+  text-align: center;
+}
+
+h2.stopwatch-title {
+  width: 100%;
+}
