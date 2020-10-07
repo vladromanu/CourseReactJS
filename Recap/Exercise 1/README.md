@@ -1,6 +1,6 @@
 ## My JS Fiddle Solution
 
-https://jsfiddle.net/uwcbngLa/1/
+https://jsfiddle.net/5skdzj62/2/
 
 ## Exercise #1
 
