@@ -1,4 +1,4 @@
-## Homework 3 - Add Courses
+## Homework Day 3 - Add Courses
 
 - Create a component from where we can add courses.
 
